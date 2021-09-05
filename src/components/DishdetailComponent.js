@@ -71,7 +71,7 @@ class DishDetail extends Component{
 
         console.log(dish);
         
-        if (dish == null) {
+        if (dish == null){
             return (<div></div>);
         }
 
